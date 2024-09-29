@@ -1,0 +1,34 @@
+@import url("reset.css");
+
+h1 {
+    color: red;
+}
+
+.list {
+    color: green;
+}
+
+#contacts {
+    color: blue;
+}
+
+.subtitle {
+    color: brown;
+}
+
+.text-inception {
+    color: blueviolet;
+}
+
+.text-inception+p {
+    color: blue;
+}
+
+.text-capital,
+.text-flag {
+    color: rgb(139, 134, 0);
+}
+
+.list-contacts a {
+    color: chocolate;
+}
